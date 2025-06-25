@@ -3,7 +3,8 @@
 **Autora:** Maria Clara de Carvalho  
 **Data:** 04/06/2025  
 **Linguagem:** Portugol
-**Visual Studio Code**
+
+**Feito pelo Visual Studio Code**
 
 ##Descrição
 
